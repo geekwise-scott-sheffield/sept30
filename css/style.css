@@ -1,0 +1,60 @@
+body{
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: #F4F2F0;
+}
+
+header{
+    color: black;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    float: left;
+    width: 100%;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+    color: black;
+    padding: 1%;
+}
+
+.links{
+    color: black;
+    text-decoration: none;
+}
+
+.links:hover{
+    color: black;
+    background-color: yellow;
+}
+
+#sign_up{
+    color: #7a1501;
+    background-color: yellow;
+}
+
+#big_pic{
+    background-color: white;
+    text-align: center;
+    height: 30%;
+    width: 100%;
+}
+
+section{
+    color:white;
+    text-align: center;
+    background-color: #7a1501;
+    height: 54.3%;
+    width: 100%;
+}
+
+.images{
+    float: left;
+    width: calc(100%/3);
+    display: inline;
+    color: white;
+}
+
